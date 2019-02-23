@@ -15,6 +15,18 @@
   
   <h2> Documentation: </h2>
   
-  <img src="documentation/Chalets and Caviar - Theme implementation-page-001.jpg"> 
+  <img src="documentation/Chalets and Caviar - Theme implementation-page-001.jpg">
+  <img src="documentation/Chalets and Caviar - Theme implementation-page-002.jpg"> 
+  <img src="documentation/Chalets and Caviar - Theme implementation-page-003.jpg"> 
+  <img src="documentation/Chalets and Caviar - User instructions web-page-001.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-002.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-003.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-004.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-005.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-006.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-007.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-008.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-009.jpg">
+  <img src="documentation/Chalets and Caviar - User instructions web-page-010.jpg">
   
  
