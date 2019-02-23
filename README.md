@@ -1,6 +1,8 @@
 <h1> Project 2 - Chalets and Caviar </h1>
 <p> This is my second project for <strong> openClassrooms </strong>. It consisted in creating a luxurious website with wordpress for a real state client. Website is fully responsive and works on all viewports. </p>
 
+<img src = "https://i.imgur.com/f1QsTan.png">
+
 <h2> Check the website @ <a href="http://dev-chaletscaviarrealstate.pantheonsite.io"> Chalets and Caviar </a> </h2>
 
 <h2> Technologies used: </h2>
