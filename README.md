@@ -13,4 +13,8 @@
   <li> Custom CSS </li>
 <ul>
   
+  <h2> Documentation: </h2>
+  
+  <img src="documentation/Chalets and Caviar - Theme implementation-page-001.jpg"> 
+  
  
